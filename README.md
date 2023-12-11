@@ -6,4 +6,4 @@
 
 - clone this project
 - run "yarn" to install all dependencies (we can use "npm install" instead)
-- run "yarn run dev" or for npm: "npm run dev"
+- run "yarn run dev" or for the npm use: "npm run dev"
